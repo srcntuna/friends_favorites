@@ -1,3 +1,7 @@
-body {
-  background-color: royalblue;
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  background-color: rgb(171, 223, 223);
 }

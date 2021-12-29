@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
 import { BrowserRouter } from "react-router-dom";
-import "./styles/app.css";
+import "./styles/App.css";
 
 // // uncomment so that webpack can bundle styles
 

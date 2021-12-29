@@ -18,9 +18,9 @@ module.exports = {
     static: {
       directory: path.resolve(__dirname, "dist"),
     },
-    port: 4000, // default is 8080
-    hot: true,
     compress: true,
+    port: 3000, // default is 8080
+    historyApiFallback: true,
   },
 
   //loaders
